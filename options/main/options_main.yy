@@ -1,5 +1,5 @@
 {
-  "option_gameguid": "06df06da-a180-4acb-8c75-837f97ba72db",
+  "option_gameguid": "27971fc8-5f4e-4a83-8c3b-9774f6cbbeaf",
   "option_gameid": "0",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
@@ -8,7 +8,7 @@
   "option_steam_app_id": "0",
   "option_sci_usesci": true,
   "option_author": "",
-  "option_lastchanged": "20 January 2022 18:32:19",
+  "option_lastchanged": "20 January 2022 12:40:19",
   "option_spine_licence": false,
   "option_template_image": "${base_options_dir}/main/template_image.png",
   "option_template_icon": "${base_options_dir}/main/template_icon.png",
