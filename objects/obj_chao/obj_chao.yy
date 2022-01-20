@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_obgchao",
-    "path": "sprites/spr_obgchao/spr_obgchao.yy",
+    "name": "spt_chao",
+    "path": "sprites/spt_chao/spt_chao.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_objchao",
+  "name": "obj_chao",
   "tags": [],
   "resourceType": "GMObject",
 }
