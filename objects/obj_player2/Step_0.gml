@@ -39,13 +39,13 @@ if(calc >= range)
 		x += 3;
 	}
 	else{
-	x -= 3;
+	x -= 5;
 	}
 	if(y <= obj_player.y){
-		y +=3;
+		y +=5;
 	}
 	else {
-		y -=3;
+		y -=5;
 	}
 }
 

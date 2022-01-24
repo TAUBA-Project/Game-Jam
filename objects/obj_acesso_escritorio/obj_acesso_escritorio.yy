@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "teste",
-    "path": "sprites/teste/teste.yy",
+    "name": "spr_doors",
+    "path": "sprites/spr_doors/spr_doors.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_player_2",
+  "name": "obj_acesso_escritorio",
   "tags": [],
   "resourceType": "GMObject",
 }
