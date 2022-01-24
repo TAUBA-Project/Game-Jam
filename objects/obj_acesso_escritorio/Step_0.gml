@@ -5,7 +5,6 @@ Highlighter(x,id);
 
 if (image_alpha = 1 and keyboard_check_pressed(ord(" ")))
 {
-	Principal
 	obj_player.xstart = obj_player.x;
 	obj_player.ystart = obj_player.y;
 	obj_player2.xstart = obj_player2.x;
